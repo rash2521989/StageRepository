@@ -1,0 +1,14 @@
+<apex:component >
+    
+	    <apex:attribute name="BoundaryState" 
+                    description="The state you want to limit the map to" 
+                    type="String" 
+                    required="false"
+                    />
+    	<apex:attribute name="BoundaryCountry"
+                        description="The state you want to limit the map to"
+                        type="String"
+                        required="false"
+                        default="USA"/>
+    
+</apex:component>
