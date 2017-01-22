@@ -1,5 +1,5 @@
 public class Bounds { 
-//bunds to check mapstochange 
+//bunds to check mapstochange  change
 private string test;
     private Northeast northeast;
     private Southwest southwest;
